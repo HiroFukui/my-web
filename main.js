@@ -1,3 +1,3 @@
 function hello() {
-    window.alert('こんちには');
+    window.alert('こんちにはver.2');
 }
